@@ -27,7 +27,7 @@
     },
     "appServicePlanResourceGroupName": {
       "type": "string",
-      "defaultValue": "rg-juiceshop-prod-lod",
+      "defaultValue": "rg-juiceshop-dev-lod",
       "metadata": {
         "description": "The name of the resource group where the App Service Plan is located."
       }
